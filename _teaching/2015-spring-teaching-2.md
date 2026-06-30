@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Lab duty experience 2"
 collection: teaching
-type: "Workshop"
+type: "Java Lab"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "VIT University Vellore"
+date: 07/12/2025
+location: "Vellore, India"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
